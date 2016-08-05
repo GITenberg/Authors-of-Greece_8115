@@ -1,0 +1,27 @@
+_repo: Authors-of-Greece_8115
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lumb, T. W. (Thomas Wallace)
+    alias: Lumb, Thomas Wallace
+    gutenberg_agent_id: '2648'
+    url: http://www.gutenberg.org/2009/agents/2648
+description: A fantastic look at the great Ancient Greek authors. Covers Homer, Aeschylus,
+  Sophocles, Euripides, Aristophanes, Herodotus, Thucydides, Plato and Demosthenes.
+gutenberg_bookshelf: Greece
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek literature -- History and criticism'
+- GITenberg
+tableOfContents: Homer -- Aeschylus -- Sophocles -- Euripides -- Aristophanes -- Herodotus
+  -- Thucydides -- Plato -- Demosthenes.
+title: Authors of Greece
+url: http://www.gutenberg.org/ebooks/8115
